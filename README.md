@@ -6,7 +6,7 @@ BTC、ETH、ETC、HuobiEcoChain(HECO)、BinanceSmartChain(BSC)、OKexChain(OKT)�
 
 
 # 接口访问频率 （Interface Request Limit）
-  每秒2次 （2 time every second）
+  每秒2次,每天1000次 （2 times/second and 1000 times/day）
 
 # Run 
  run main function
